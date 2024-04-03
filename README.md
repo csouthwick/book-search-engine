@@ -27,6 +27,4 @@ Run
 npm start
 ```
 
-Or view the live app on Heroku by clicking the image below
-
-[![Budget Tracker running as a progressive web app](./assets/book-search.png)](https://quiet-beach-42198.herokuapp.com/)
+![Budget Tracker running as a progressive web app](./assets/book-search.png)
